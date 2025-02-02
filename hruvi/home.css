@@ -1,0 +1,90 @@
+.doodle{
+    color: steelblue;
+    margin-left: 550px;
+    font-family: "Sour Gummy", cursive;
+    font-size: xxx-large;
+}
+.bg{
+    background-image: url("data:image/jpeg;base64,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");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+.header{
+    display: flex;
+}
+.div{
+    background-color: #DEDDC0;
+    color: #b49f8a;
+    margin-left: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: smaller;
+    font-family: "Delius Unicase", cursive;
+}
+.diva{
+    background-color: #D2BDAA;
+    color: #ebeac9;
+    margin-left: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: "Delius Unicase", cursive;
+}
+input{
+    display: flex;
+    height: 10px;
+    width: 400px;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    outline: none;
+}
+a{
+   font-family: "Delius Unicase", cursive; 
+   background-color: #E8B9B4;
+   font-size: medium;
+   color: #535231;
+   padding-right: 10px;
+   padding-top: 5px;
+   margin-top: 20px;
+}
+.images{
+    height: 200px;
+    background-color: #DEDDC0;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+.footer{
+    background-color: #c58a83;
+    color: whitesmoke;
+    font-family: "Delius Unicase", cursive;
+    margin-top: 40px;
+}
+.media{
+    mix-blend-mode: multiply;
+    margin-left: 50%;
+    height: 50px;
+}
+.content{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    padding-right: 700px;
+}
+.cart{
+    height: 30px;
+    margin-right: 2px;
+    padding-left: 2px;
+    mix-blend-mode: multiply;
+}
+.searchlogo{
+    height: 30px;
+    margin-left: 160px;
+    mix-blend-mode: multiply;
+}
